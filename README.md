@@ -19,6 +19,8 @@ En la función get_message(), se obtienen todos los mensajes de la base de datos
 
 2.Un frontend sencillo utilizando HTML, JavaScript para mostrar los movimientos del juego de salto entre nodos obtenidos a través del endpoint GET en la aplicación Flask
 
+Diseño de la aplicacion:
+![image](https://github.com/WilmarTarazona/TF_PCD/assets/64874245/ee0e0161-8194-44b8-8435-9c762bbb13f8)
 
 
 3.Un programa en Go que implementa un juego de salto entre nodos conectados en red. El juego consiste en que los jugadores saltan de un nodo a otro en función de comandos recibidos.
