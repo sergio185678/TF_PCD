@@ -37,4 +37,4 @@ La función send se utiliza para enviar mensajes JSON codificados a un nodo remo
 
 La función main es el punto de entrada del programa. Lee las banderas de línea de comandos para obtener la configuración del nodo, como el nombre de host, los nodos previo y siguiente, y una bandera especial para iniciar el juego. Si se especifica la bandera especial, el programa envía mensajes "send new" a los nodos previo y siguiente para iniciar el juego. De lo contrario, inicia el servidor TCP llamando a la función listen.
 
-La funcion sendToEndpoint es una solicitud HTTP al endpoint deseado
+La funcion sendToEndpoint es una solicitud HTTP al endpoint deseado.
